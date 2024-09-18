@@ -214,6 +214,7 @@ img {
     height: 100vh;
     display: flex;
     align-items: center;
+    justify-content: space-evenly;
 }
 .cont-3 h2 {
     font-family: Cormorant Garamond;
